@@ -51,7 +51,7 @@ function AddUser({ fetchUserData, isOpen, onClose, setCurrentPage }) {
 
     try {
       const response = await axios.post(
-        "http://localhost:3000/users",
+        "https://json-1-2gf5.onrender.com/users",
         formData
       );
       toast({

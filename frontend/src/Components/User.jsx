@@ -42,7 +42,7 @@ function User() {
     setIsLoading(true);
     try {
       const { data } = await axios.get(
-        `http://localhost:3000/users?_page=${page}&_per_page=5`
+        `https://json-1-2gf5.onrender.com/users?_page=${page}&_per_page=5`
       );
       setTotalPages(data.last);
       setUserData(data.data);

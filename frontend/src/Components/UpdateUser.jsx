@@ -27,7 +27,7 @@ function UpdateUser({ user, isOpen, onClose, onUpdateSuccess }) {
     setIsLoading(true);
     try {
       const { data } = await axios.put(
-        `http://localhost:3000/users/${user.id}`,
+        `https://json-1-2gf5.onrender.com/users/${user.id}`,
         {
           firstName,
           lastName,
