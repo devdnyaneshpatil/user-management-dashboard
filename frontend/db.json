@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "firstName": "Amey",
+      "lastName": "Patil",
+      "email": "a@gmail.com",
+      "department": "IT",
+      "id": "a365"
+    },
+    {
+      "id": "e4bf",
+      "firstName": "Vishal",
+      "lastName": "Gawade",
+      "email": "v@gmail.com",
+      "department": "IT"
+    },
+    {
+      "firstName": "Omkar",
+      "lastName": "Gawade",
+      "email": "omkar@gmail.com",
+      "department": "Hindi",
+      "id": "5af4"
+    },
+    {
+      "id": "1ccb",
+      "firstName": "dnyanesh",
+      "lastName": "patil",
+      "email": "d@gmail.com",
+      "department": "Hr"
+    },
+    {
+      "id": "da83",
+      "firstName": "sagar",
+      "lastName": "patil",
+      "email": "s@gmail.com",
+      "department": "english"
+    },
+    {
+      "id": "c7d6",
+      "firstName": "pratik",
+      "lastName": "hiremath",
+      "email": "p@gmail.com",
+      "department": "cognosy"
+    },
+    {
+      "id": "540c",
+      "firstName": "santosh",
+      "lastName": "patil",
+      "email": "santosh@gmail.com",
+      "department": "militry"
+    },
+    {
+      "id": "1360",
+      "firstName": "rahul",
+      "lastName": "patil",
+      "email": "r@gmail.com",
+      "department": "pharmcy"
+    },
+    {
+      "id": "a757",
+      "firstName": "klmfgjoskpf kfjo",
+      "lastName": "fjoawekf",
+      "email": "fowakjfoko@g",
+      "department": "oekfok"
+    },
+    {
+      "id": "78c5",
+      "firstName": "afojoajof",
+      "lastName": "afjojaof",
+      "email": "afjo@g",
+      "department": "afpokp"
+    },
+    {
+      "id": "61c1",
+      "firstName": "flmemfo",
+      "lastName": "sgfmlsmgl",
+      "email": "sflgmm@g",
+      "department": "sfof"
+    },
+    {
+      "id": "20d1",
+      "firstName": "sgoso",
+      "lastName": "sgoglkmg",
+      "email": "sgjosjog@g",
+      "department": "sgjojog"
+    },
+    {
+      "id": "d30b",
+      "firstName": "aofjojaogj",
+      "lastName": "asfkokafko",
+      "email": "sfko@g",
+      "department": "afomafo"
+    },
+    {
+      "id": "ca8b",
+      "firstName": "new",
+      "lastName": "new",
+      "email": "n@G",
+      "department": "NEW"
+    },
+    {
+      "id": "f2eb",
+      "firstName": "second",
+      "lastName": "second",
+      "email": "s@g",
+      "department": "second"
+    },
+    {
+      "id": "2b7c",
+      "firstName": "Sagar",
+      "lastName": "sagar",
+      "email": "s@gs",
+      "department": "s"
+    },
+    {
+      "id": "7fe6",
+      "firstName": "laxman",
+      "lastName": "l",
+      "email": "l@gmail.com",
+      "department": "l"
+    },
+    {
+      "id": "32cf",
+      "firstName": "g",
+      "lastName": "g",
+      "email": "g@g",
+      "department": "g"
+    }
+  ]
+}
