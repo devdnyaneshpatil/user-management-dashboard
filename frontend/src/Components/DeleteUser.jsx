@@ -18,7 +18,7 @@ function DeleteUser({ isOpen, onClose, userId, onDeleteSuccess }) {
 
   const handleDelete = async () => {
     try {
-      await axios.delete(`https://json-1-2gf5.onrender.com/users/${userId}`);
+      await axios.delete(`https://json-server-de5k.onrender.com/users/${userId}`);
       toast({
         title: "User deleted.",
         description: "The user has been successfully deleted.",

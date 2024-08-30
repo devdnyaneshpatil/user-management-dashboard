@@ -41,11 +41,12 @@ function User() {
   const fetchUserData = async (page) => {
     setIsLoading(true);
     try {
-      const { data } = await axios.get(
-        `https://json-1-2gf5.onrender.com/users?_page=${page}&_per_page=5`
+      const { data, headers } = await axios.get(
+        `https://json-server-de5k.onrender.com/users?_page=${page}&_limit=5`
       );
-      setTotalPages(data.last);
-      setUserData(data.data);
+      //   setTotalPages(data.last);
+      setTotalPages(Math.ceil(headers["x-total-count"] / 5));
+      setUserData(data);
     } catch (error) {
       console.error("Error fetching user data", error);
     }
